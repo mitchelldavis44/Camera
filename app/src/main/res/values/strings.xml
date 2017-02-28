@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="app_launcher_name">Camera</string>
+    <string name="camera_unavailable">Camera unavailable</string>
+    <string name="camera_open_error">An error occurred accessing the camera</string>
+    <string name="video_creating_error">An error occurred creating the video file</string>
+    <string name="video_saving_error">An error occurred saving the video file</string>
+    <string name="video_setup_error">An error occurred setting up the recorder</string>
+    <string name="video_mode_error">Switching to video mode failed</string>
+    <string name="save_error_internal_storage">An error occurred, save folder changed to internal storage</string>
+    <string name="camera_switch_error">Switching camera failed</string>
+    <string name="no_permissions">Not much to do without accessing your camera and storage</string>
+    <string name="no_audio_permissions">We need the audio permission for recording videos</string>
+    <string name="no_gallery_app_available">No gallery app available</string>
+    <string name="no_valid_resolution_found">No valid resolution with selected aspect ratio found, using max resolution</string>
+    <string name="ok">OK</string>
+
+    <string name="settings">Settings</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="save_photos">Save photos and videos to</string>
+    <string name="force_ratio">Use 16:9 ratio</string>
+    <string name="show_preview">Show a photo preview after capturing</string>
+    <string name="max_photo_size">Max photo resolution limit</string>
+    <string name="max_video_size">Max video resolution limit</string>
+    <string name="no_limit">none</string>
+    <string name="shutter_sound">Shutter sound</string>
+
+    <string name="about">About</string>
+    <string name="third_party_licences_underlined"><u>Third party licences</u></string>
+    <string name="follow_us">Follow us:</string>
+
+    <string name="notice">This app uses the following third party libraries.</string>
+    <string name="third_party_licences">Third party licences</string>
+    <string name="kotlin_title"><u>Kotlin (programming language)</u></string>
+    <string name="kotlin_text" translatable="false">Copyright 2010 - 2016 JetBrains s.r.o.\n\nLicensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.See the License for the specific language governing permissions and limitations under the License.</string>
+    <string name="kotlin_url" translatable="false">https://github.com/JetBrains/kotlin</string>
+    <string name="glide_title"><u>Glide (image loading and caching)</u></string>
+    <string name="glide_text" translatable="false">Copyright 2014 Google, Inc. All rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\nTHIS SOFTWARE IS PROVIDED BY GOOGLE, INC. ``AS IS\'\' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL GOOGLE, INC. OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</string>
+    <string name="glide_url" translatable="false">https://github.com/bumptech/glide</string>
+    <string name="filepicker_title"><u>Simple File Picker (filepicker dialog)</u></string>
+    <string name="filepicker_text" translatable="false">Copyright 2016 SimpleMobileTools\n\nLicensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.See the License for the specific language governing permissions and limitations under the License.</string>
+    <string name="filepicker_url" translatable="false">https://github.com/SimpleMobileTools/Simple-File-Picker</string>
+
+    <string name="compose_shortcut_short_label1">Take a picture</string>
+    <string name="compose_shortcut_long_label1">Take a picture</string>
+    <string name="compose_disabled_message1">Take a picture</string>
+
+</resources>
